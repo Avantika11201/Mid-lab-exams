@@ -45,3 +45,14 @@
     font-size: 20px;
     color: black;
 }
+.footerdiv {
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 60px;
+    margin-bottom: 0;
+
+}
+.footerdiv p {
+    margin-top: 20px;
+}
