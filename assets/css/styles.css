@@ -1,4 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 #head-div {
+    margin-top: 0;
     background-color: #17194B;
 }
 #nav-bar-home {
@@ -9,4 +14,29 @@
     color: white;
     text-decoration: none;
     font-size: 1em;
+}
+#bodydiv1 {
+    background-color: #F8F5F4;
+}
+#bodyP1 {
+    align-items: center;
+    font-size: 30px;
+   
+}
+#bodyp1p {
+    justify-content: center;
+    color: #17194B;
+    text-align: center;
+}
+#divbody2 {
+    background-color: black;
+}
+.divbodysmallcards {
+    width: 200px;
+    height: 200px;
+    background-color: #3199FE;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
 }
