@@ -1,0 +1,12 @@
+#head-div {
+    background-color: #17194B;
+}
+#nav-bar-home {
+    margin-left: 20em;
+}
+.navbaritem {
+    margin-right: 10em;
+    color: white;
+    text-decoration: none;
+    font-size: 1em;
+}
